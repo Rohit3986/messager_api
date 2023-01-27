@@ -1,0 +1,5 @@
+project description:
+as per discussion i have created api in django
+superuser is rohitkashyap passowrd=1
+I have implemented authentication and permission_classes so that only authentucated user can post message
+
